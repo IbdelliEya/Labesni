@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "475905902557",
+    "firebase_url": "https://labesni-6ec80-default-rtdb.firebaseio.com",
+    "project_id": "labesni-6ec80",
+    "storage_bucket": "labesni-6ec80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475905902557:android:b678e9c29502d60ae69834",
+        "android_client_info": {
+          "package_name": "com.example.labesni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJfa-x6f5dqE0RoARutjVEYKJ7dTmn0XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
